@@ -76,7 +76,7 @@ Random delays: 4
 
 Status: ✅ PASS - System survived full 5-minute chaos test. No kill switch activation. All failures handled correctly. Shows exactly how a Hybrid AI should work.
 
-Few days iam launching public version same concept as chatgpt, but with improvements, IDE includes also. and other features.
+Few days iam launching public version "chat interface website" same concept as chatgpt and other, but with a new twist, IDE includes also. and other features.
 
 License
 This documentation is provided for informational purposes only.
