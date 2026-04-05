@@ -129,4 +129,11 @@ This achievement represents a rare combination of:
 
 and forms the basis for the next generation of hybrid intelligent systems.
 
+## Demonstration Video
+
+[![Nexus AI Demonstration](https://img.youtube.com/vi/s5m3u5nbuj4/maxresdefault.jpg)](https://www.youtube.com/watch?v=s5m3u5nbuj4)
+
+**Watch the full video:**  
+https://www.youtube.com/watch?v=s5m3u5nbuj4
+
 ---
