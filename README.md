@@ -2,8 +2,11 @@
 ### Hybrid Cognitive Engine by Nexus Cognitive Labs
 
 <p align="center">
-  <img src="assets/nexus-ai-logo.png" alt="Nexus AI Logo" width="260">
+  <img src="https://github.com/NexusAIHybridTeam/Nexus-AI/blob/main/Skjermbilde%202026-04-05%20035306.png?raw=true" 
+       alt="Nexus AI Screenshot" 
+       width="750">
 </p>
+
 
 ---
 
