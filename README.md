@@ -1,6 +1,7 @@
 # Nexus AI  
 ### Hybrid Cognitive Engine by Nexus Cognitive Labs
 
+
 <p align="center">
   <img src="https://github.com/NexusAIHybridTeam/Nexus-AI/blob/main/Skjermbilde%202026-04-05%20035306.png?raw=true" 
        alt="Nexus AI Screenshot" 
