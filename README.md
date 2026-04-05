@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=s5m3u5nbuj4
 # System Screenshot
 
 <p align="center">
-  <img src="https://github.com/NexusAIHybridTeam/Nexus-AI/blob/main/Skjermbilde%202026-04-05%20035306.png](https://github.com/NexusAIHybridTeam/Nexus-AI/blob/main/Skjermbilde%202026-04-05%20040042.png?raw=true)?raw=true" 
+  <img src="Skjermbilde 2026-04-05 040042.png?raw=true)?raw=true" 
        alt="Nexus AI Screenshot" 
        width="750">
 </p>
