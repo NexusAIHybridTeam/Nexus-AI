@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=s5m3u5nbuj4
 
 ---
 
-# System Screenshot
+# Chat Interface
 
 <p align="center">
   <img src="Skjermbilde 2026-04-05 040042.png?raw=true)?raw=true" 
