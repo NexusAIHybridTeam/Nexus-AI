@@ -6,20 +6,20 @@ About Nexus Cognitive Labs
 Nexus Cognitive Labs develops hybrid intelligent systems that combine symbolic reasoning, neural inference, and deterministic cognitive control. The company focuses on building transparent, modular, and operationally stable AI architectures designed for real‑world use.
 
 Core Principles
-Hybrid Intelligence  
-Nexus AI integrates symbolic logic, neural models, and cognitive control loops.
+Hybrid Intelligence
+Integration of symbolic logic, neural models, and cognitive control loops.
 
-Deterministic Architecture  
+Deterministic Architecture
 Every module is isolated, testable, and predictable under load.
 
-Explainability by Design  
+Explainability by Design
 Reasoning chains, decisions, and internal states are fully traceable.
 
-Modularity  
+Modularity
 Tools, agents, memory systems, and cognitive modules are plug‑and‑play.
 
-Production‑Ready  
-Built for stability, long‑running sessions, and autonomous operation.
+Production‑Ready
+Engineered for stability, long‑running sessions, and autonomous operation.
 
 Key Features
 1. Cognitive Engine
