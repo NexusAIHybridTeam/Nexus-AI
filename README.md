@@ -1,5 +1,6 @@
 # Nexus Cognitive Labs  
-## Whitepaper Summary — Achievements of Tobias Østen  
+## Whitepaper Summary. Achievements of Tobias Østen
+## www.pcnorge.no
 ### Founder & System Architect, Nexus Cognitive Labs
 
 This document outlines the core achievements, research contributions, and engineering outcomes delivered by Tobias Østen in the development of Nexus AI and the broader hybrid‑intelligence framework at Nexus Cognitive Labs.
