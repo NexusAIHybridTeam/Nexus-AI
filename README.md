@@ -1,9 +1,9 @@
 # Nexus Cognitive Labs 
 ## Nexus AI Logo
 
-<p align="center">
+**<p align="center">
   <img src="assets/nexus-ai-logo.png" alt="Nexus AI Logo" width="300">
-</p>
+</p>**
 
 ## Whitepaper Summary. Achievements of Tobias Østen
 ### Visit: www.pcnorge.no
